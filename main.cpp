@@ -1,21 +1,29 @@
 #include "headers.h"
 
-
 int main()
 {
     string file_name, file_contents, all_links;
 
-    cout << "Enter file name: ";
+    // Paprašoma įvesti failo pavadinimą
+    cout << "Įveskite failo pavadinimą: ";
     cin >> file_name;
 
+    // Iškviečiama funkcija, kuri nuskaito failo turinį ir jį įrašo į file_contents eilutę
     read_file(file_name, file_contents);
 
+    // Iškviečiama funkcija, kuri randa visus URL adresus faile ir juos įrašo į all_links eilutę
     find_all_links(file_contents, all_links);
+
+    // Iškviečiama funkcija, kuri randa kartojamus žodžius faile ir juos įrašo į repeated_words mapą
     std::map<std::string, std::pair<int, std::vector<int>>> repeated_words = find_repeated_words(file_contents);
     
+    // Iškviečiama funkcija, kuri spausdina trumpąją rezultatų versiją, naudojant repeated_words žemėlapį ir all_links eilutę
     print_short_version(repeated_words, all_links);
+    
+    // Iškviečiama funkcija, kuri įrašo rezultatus į failą, naudojant file_name pavadinimą, repeated_words žemėlapį ir all_links eilutę
     write_to_file(file_name, repeated_words, all_links);
 }
+
 
 
 
