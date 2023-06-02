@@ -1,1 +1,87 @@
+Main menu
 
+VikipedijaLaisvoji enciklopedija
+Ieškoti Vikipedijoje
+Sukurti paskyrą
+Prisijungti
+
+Asmeniniai įrankiai
+[paslėpti]
+Šios savaitės iniciatyva: nepastebimai raudonų nuorodų pildymas straipsniais. Kviečiame prisidėti!
+
+Turinys paslėpti
+Pradžia
+Istorija
+Skirstymas
+Šakos
+Toggle Šakos subsection
+Medicinos ergonomika
+Ugdymo aplinkos ergonomika
+Kosmoso ergonomika
+Kompiuterizuotų darbo vietų ergonomika
+Gamybos ergonomika
+Karinė ergonomika
+Taip pat skaitykite
+Šaltiniai
+Nuorodos
+Ergonomika
+
+Straipsnis
+Aptarimas
+Keisti
+Keisti vikitekstą
+Istorija
+
+Įrankiai
+
+Ergonomika – mokslas, tiriantis žmogaus psichofiziologines galimybes, ribas ir ypatumus darbo vyksme
+Ergonomika (angl. ergonomics, vok. Ergonomie, pranc. ergonomie) – taikomasis mokslas, tiriantis dirbančiojo psichofiziologines galimybes, ribas ir elgesį darbo metu; sukauptą informaciją taiko objektams, procesams, darbo aplinkai projektuoti[1].
+
+Ergonomikos tyrinėjimų objektas dažniausiai būna žmogus. Siekiama sukurti optimalias darbo sąlygas (priemones ir aplinką), kurios tausotų žmogaus sveikatą, laiduotų darbo saugą ir našumą. Ergonomika, kaip kompleksinis mokslas, pasižymi tuo, kad naudojasi pavienių mokslų metodus, duomenis bei pasiekimus sprendžiant specifinius uždavinius, kurių negali išspręsti nė vienas mokslas paimtas atskirai. Ergonomika naudojasi technikos, inžinerinės psichologijos, estetikos, darbo higienos, fiziologijos, antropometrijos, biomechanikos duomenimis ir metodais.
+
+Istorija
+Pagrindinis straipsnis – Ergonomikos istorija.
+
+Wojciech Jastrzębowski - lenkų gamtininkas, sukūręs žodį ergonomika.
+Ergonominės koncepcijos pradėtos kurti XIX ir XX a. sandūroje, kai pramonės produktyvumas priklausė daugiausia nuo žmonių jėgos bei motyvacijos. Žodis ergonomika kilęs iš gr. ἔργον 'darbas' + gr. νόμος 'dėsnis'. Terminą sukūrė lenkų gamtininkas Wojciech Jastrzębowski ir 1857 m. paminėjo savo filosofiniame veikale „Ergonomikos, t. y. mokslo apie darbą bruožai“ (lenk. Rys ergonomji czyli nauki o pracy, opartej na prawdach poczerpniętych z Nauki Przyrody). Pirmasis ir Antrasis pasaulinis karai paspartino karinės pramonės vystymąsi. Kartu iškilo poreikis padidinti darbo efektyvumą.
+
+Laikoma, kad pirmasis apie darbo mokslą, pavadinęs jį ergologija, prakalbo rusų psichologas Vladimir Miasiščev (rus. Владимир Николаевич Мясищев) 1921 m. visos Rusijos konferencijoje apie mokslinio darbo organizavimą[2]. 1949 m. pirmą kartą ergonomika pripažinta kaip mokslas, jos pradininkas – anglų inžinierius Frederikas Teiloras (angl. Frederick Winslow Taylor). Jis populiarino mokslinio darbo proceso valdymo požiūrį, kuriuo remiantis, didesnio darbo efektyvumo siekiama gerinant darbo procesą. F. Teiloro darbus tesė amerikiečiai Frank ir Lillian Gilbreth savo darbe „Laiko ir judesio studijos“ (angl. Time and Motion Studies). Jie siūlė būdus padidinti darbo efektyvumą mažinant darbuotojų nuovargio vystymąsi.
+
+1950 m. tapo žinomas SSRS, vėliau – 1968 m. ergonomikos problemomis susidomėta Lietuvoje.
+
+Skirstymas
+mikroergonomika
+midiergonomika
+makroergonomika
+Šakos
+Medicinos ergonomika
+Pagrindinis straipsnis – Medicinos ergonomika.
+Ugdymo aplinkos ergonomika
+Pagrindinis straipsnis – Ugdymo aplinkos ergonomika.
+Kosmoso ergonomika
+Pagrindinis straipsnis – Kosmoso ergonomika.
+Kompiuterizuotų darbo vietų ergonomika
+Pagrindinis straipsnis – Kompiuterizuotų darbo vietų ergonomika.
+Gamybos ergonomika
+Pagrindinis straipsnis – Gamybos ergonomika.
+Karinė ergonomika
+Pagrindinis straipsnis – Karinė ergonomika.
+Karinė ergonomika tyrinėja žmogaus kovinės veiklos galimybes karinės paskirties sistemose (žmogus-mašina-aplinka) atsižvelgdama į antropometrinius (biologinius), biomechaninius (judesių) ir medicininius (higienos) rodiklius. Sudaro galimybes didinti ginklų ir kovos technikos naudojimo veiksmingumą, trumpinti sudėtingų sistemų įvaldymo laiką, mažinti avarijų ir katastrofų skaičių.[1]
+
+Taip pat skaitykite
+Neuronomija
+Tinkamumas
+Šaltiniai
+ Enciklopedinis karybos žodynas (sud. Petras Algirdas Čiočys, Jurgis Janukevičius, Edvardas Jasiulionis). - Vilnius: Generolo Jono Žemaičio Lietuvos karo akademija, 2008, ISBN 978-9955-423-66-9
+ Vytolis Kučinskas Ergonomika (vadovėlis), Klaipėdos universiteto leidykla, 2004
+Nuorodos
+Commons-logo.svg	
+Vikiteka: Ergonomika – vaizdinė ir garsinė medžiaga
+Kompiuterizuotų darbo vietų ergonomika, KU mokomoji medžiaga Archyvuota kopija 2007-05-15 iš Wayback Machine projekto.
+Ergonomika.lt
+Darbo vietos ergonomika Archyvuota kopija 2015-04-17 iš Wayback Machine projekto.
+Nebaigta  	Šis straipsnis apie mokslą yra nebaigtas. Jūs galite prisidėti prie Vikipedijos papildydami šį straipsnį.
+Kategorijos: Nepilni MokslasErgonomikaInžinerija
+Šis puslapis paskutinį kartą keistas 17 vasario 2023 23:42.
+Tekstas pateikiamas pagal Creative Commons Attribution/Share-Alike Licenciją; gali būti taikomos papildomos sąlygos. Detaliau – Terms of Use .
+Privatumo politikaApie VikipedijąJokių garantijųMobili peržiūraKūrėjaiStatistikaSlapukų politikaWikimedia FoundationPowered by MediaWiki
